@@ -1,0 +1,22 @@
+.facts {
+    margin: 0px;
+    background-color: #282D35;
+    padding: 1%;
+}
+
+.facts ul li::marker {
+    font-size: 26px;
+    color: white;   
+}
+
+.facts h1 {
+    margin: 0px;
+    padding: 1%;
+}
+
+.content-react-logo {
+    position: absolute;
+    right: 0px;
+    top: 10%;
+    
+}

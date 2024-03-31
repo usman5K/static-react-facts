@@ -1,0 +1,29 @@
+.nav-bar {
+    display: flex;
+    margin: 0px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    background-color: #21222A;
+}
+
+.nav-bar img {
+    width: 40px;
+}
+
+.branding-header {
+    display: flex;
+}
+
+.nav-bar h3{
+    color: #DEEBF8;
+    font-size: 16px;
+    padding-right: 20px;
+}
+
+.branding-header h1 {
+    color: #61DAFB;
+    font-size: 22.25px;
+    font-weight: 900px;
+    padding-left: 10px;
+}
